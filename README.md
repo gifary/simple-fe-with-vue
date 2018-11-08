@@ -1,4 +1,4 @@
-# front-end-member
+# Sample APP with VUE
 
 ## Project setup
 ```
